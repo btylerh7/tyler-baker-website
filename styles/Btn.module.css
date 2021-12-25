@@ -1,0 +1,15 @@
+.blueBtn {
+    display: flex;
+    max-width: 6rem;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem 0;
+    background-color: var(--dark-text);
+    color: var(--light-text);
+    border-radius: var(--slightly-rounded);
+    border: 1px solid var(--dark-text);
+}
+.blueBtn a {
+    color: var(--light-text);
+}

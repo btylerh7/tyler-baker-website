@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210.60834mm"
+   height="100.80625mm"
+   viewBox="0 0 210.60834 100.80625"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   sodipodi:docname="bg.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:snap-global="true"
+     inkscape:zoom="1.497726"
+     inkscape:cx="400.27349"
+     inkscape:cy="482.06415"
+     inkscape:window-width="1440"
+     inkscape:window-height="900"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3628"
+       originx="0.1322915"
+       originy="-55.430209" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0.1322915,-55.43021)">
+    <path
+       style="fill:#10999f;fill-opacity:1;stroke:#ffffff;stroke-width:0.256308"
+       d="M -10.381714,103.41766 V 50.57141 l 72.808592,-0.06832 c 70.967272,-0.06659 72.837222,-0.05581 73.941312,0.426069 1.67723,0.732036 7.54054,8.491144 13.04216,11.702477 9.93529,5.799292 17.85059,6.357 23.75668,11.437218 3.85045,3.312028 5.88008,4.648517 9.57987,6.308241 2.75954,1.237929 11.84046,4.788022 17.24228,6.740692 l 14.32332,5.486381 5.29167,29.104162 -7.9375,34.39584 -114.943618,0.15975 C 65.196449,153.32794 33.013257,152.92 2.6458333,145.52083 -11.450213,145.78182 -10.381714,103.41766 -10.381714,103.41766 Z"
+       id="path9389"
+       sodipodi:nodetypes="ccsssssscccccc" />
+  </g>
+</svg>
